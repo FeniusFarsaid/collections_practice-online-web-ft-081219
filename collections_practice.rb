@@ -19,18 +19,3 @@ def reverse_array(array)
   array.reverse 
 end
 
-def 
-  
-end
-
-def 
-  
-end
-
-def 
-  
-end
-
-def 
-  
-end
